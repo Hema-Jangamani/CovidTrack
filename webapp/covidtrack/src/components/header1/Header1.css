@@ -1,0 +1,10 @@
+.header{
+    z-index: 999;
+    position: fixed;
+    background-color: rgb(34, 27, 27);
+    color: white;
+    font-size: 15pt;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+}

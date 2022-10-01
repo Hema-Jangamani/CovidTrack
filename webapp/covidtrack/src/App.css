@@ -1,0 +1,7 @@
+.App{
+  background-image: url('https://www.scout.org/sites/default/files/coronavirus_1200xx6353-3579-0-460.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  padding: 100px 50px;
+}
